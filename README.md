@@ -20,7 +20,7 @@ My research centers on **efficient planning algorithms with rigorous guarantees 
 ### Bidirectional heuristic search
 - [MEET](https://github.com/yi213-robotic/MEET) at IJCAI 2025.
 
-## Selected Publication Venues
+## Publication Venues
 
 <p align="center">
   <img src="https://img.shields.io/badge/AAAI-%20-blue?style=for-the-badge" />
