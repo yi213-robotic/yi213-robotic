@@ -19,3 +19,14 @@ My research centers on **efficient planning algorithms with rigorous guarantees 
 - [BTITstar](https://github.com/yi213-robotic/Bidirectional-Tight-Informed-Trees) at ICCA 2026.
 ### Bidirectional heuristic search
 - [MEET](https://github.com/yi213-robotic/MEET) at IJCAI 2025.
+
+## Selected Publication Venues
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AAAI-%20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IJCAI-%20-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IJRR-%20-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RSS-%20-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ICRA-%20-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AIJ-%20-teal?style=for-the-badge" />
+</p>
