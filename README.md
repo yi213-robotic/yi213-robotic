@@ -3,21 +3,9 @@ Ph.D. cadidate, recently defended, in Robotics and AI at Univiersity of New Hamp
 
 My research centers on efficient planning foundations for trustworthy robotic autonomay, especially developing algorithmic and theoretical foundations.
 
-## Ongoing Work
-Motion planning
+## Resarch Pillars
+- Sampling-based Motion planning for kinodynamic systems
+- Bidirectional Hueristic search
 
-
-
-**yi213-robotic/yi213-robotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## Open resource contributors
+- Open Motion Planning Library (Lazy Informed Trees)
