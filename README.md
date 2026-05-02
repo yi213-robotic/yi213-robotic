@@ -11,4 +11,4 @@ My research centers on efficient planning algorithms with rigorous guarantees fo
 
 ## Open-Source Contributions
 
-- Open Motion Planning Library (OMPL): Lazy Informed Trees
+- Open Motion Planning Library (OMPL): [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
