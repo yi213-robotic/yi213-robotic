@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="ChatGPT Image May 1, 2026, 09_56_24 PM" src="https://github.com/user-attachments/assets/29bf9dce-2b24-43e9-b674-48cbc3b32036" />
 ## Yi Wang
 
 Ph.D. in Robotics and AI at the University of New Hampshire.
