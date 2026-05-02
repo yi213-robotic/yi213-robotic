@@ -1,4 +1,4 @@
-<img width="500" height="700" alt="ChatGPT Image May 1, 2026, 10_23_19 PM" src="https://github.com/user-attachments/assets/dffbd540-66d2-4f89-aa8b-da30f53528f4" />
+<img align="right" width="500" height="700" alt="ChatGPT Image May 1, 2026, 10_23_19 PM" src="https://github.com/user-attachments/assets/dffbd540-66d2-4f89-aa8b-da30f53528f4" />
 
 
 ## Yi Wang
