@@ -25,10 +25,6 @@ My research centers on **efficient planning algorithms with rigorous guarantees 
 ## Publication Venues
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AAAI-%20-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IJCAI-%20-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IJRR-%20-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RSS-%20-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ICRA-%20-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AIJ-%20-teal?style=for-the-badge" />
+  <img width="850" alt="Publication Venues" src="https://github.com/user-attachments/assets/9e2c6d44-1596-4588-bdcb-e33bfebec688" />
 </p>
+
