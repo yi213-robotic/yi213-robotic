@@ -9,6 +9,6 @@ My research centers on efficient planning algorithms with rigorous guarantees fo
 - Sampling-based motion planning for kinodynamic systems
 - Bidirectional heuristic search
 
-## Open-Source Contributions
+## [Open-Source Contributions](https://github.com/ompl/ompl/releases/tag/2.0.0)
 
 - Open Motion Planning Library (OMPL): [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
