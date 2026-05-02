@@ -15,8 +15,7 @@ My research centers on efficient planning algorithms with rigorous guarantees fo
 
 # Polular repos
 ## Sampling-based Motion Planning
-- BLITstar
-- BTITstar
+- [BLITstar](https://github.com/yi213-robotic/BLITstar-ICRA2025) at ICRA 2025.
+- [BTITstar](https://github.com/yi213-robotic/Bidirectional-Tight-Informed-Trees) at ICCA 2026.
 ## Bidirectional heuristic search
-- MEET
-## Any-angle Path planning
+- [MEET](https://github.com/yi213-robotic/MEET) at IJCAI 2025.
