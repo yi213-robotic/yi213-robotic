@@ -1,11 +1,14 @@
 ## Yi Wang
-Ph.D. cadidate, recently defended, in Robotics and AI at Univiersity of New Hampshire.
 
-My research centers on efficient planning foundations for trustworthy robotic autonomay, especially developing algorithmic and theoretical foundations.
+Ph.D. candidate in Robotics and AI at the University of New Hampshire. I recently defended my dissertation.
 
-## Resarch Pillars
-- Sampling-based Motion planning for kinodynamic systems
-- Bidirectional Hueristic search
+My research centers on efficient planning algorithms for trustworthy robotic autonomy. In particular, I develop algorithmic and theoretical foundations for motion planning and robotic decision-making under complex dynamics.
 
-## Open resource contributors
-- Open Motion Planning Library (Lazy Informed Trees)
+## Research Pillars
+
+- Sampling-based motion planning for kinodynamic systems
+- Bidirectional heuristic search
+
+## Open-Source Contributions
+
+- Open Motion Planning Library (OMPL): Lazy Informed Trees
