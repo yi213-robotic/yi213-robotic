@@ -1,6 +1,13 @@
 ## Yi Wang
+Ph.D. cadidate, recently defended, in Robotics and AI at Univiersity of New Hampshire.
 
-<!--
+My research centers on efficient planning foundations for trustworthy robotic autonomay, especially developing algorithmic and theoretical foundations.
+
+## Ongoing Work
+Motion planning
+
+
+
 **yi213-robotic/yi213-robotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
