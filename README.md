@@ -4,7 +4,7 @@
 
 Ph.D. in Robotics and AI at the University of New Hampshire.
 
-My research centers on **efficient planning algorithms for trustworthy robotic autonomy**. I develop algorithmic and theoretical foundations that enable autonomous systems to act safely, reliably, and efficiently in complex settings.
+My research centers on **efficient planning algorithms for trustworthy robotic autonomy**. I develop algorithmic and theoretical foundations that enable autonomous robotic systems to act safely, reliably, and efficiently in complex settings.
 
 ## Research Pillars
 
