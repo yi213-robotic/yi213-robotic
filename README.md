@@ -4,23 +4,32 @@
 
 Ph.D. in Robotics and AI at the University of New Hampshire.
 
-My research centers on **efficient planning algorithms for trustworthy robotic autonomy**. I develop algorithmic and theoretical foundations that enable autonomous robotic systems to act safely, reliably, and efficiently in complex settings.
+My research centers on **efficient planning algorithms for trustworthy robotic autonomy**. I develop algorithmic and theoretical foundations that enable autonomous robotic systems to act safely, reliably, and efficiently in complex environments.
 
 ## Research Pillars
 
-- Sampling-based motion planning for kinodynamic systems
-- Bidirectional heuristic search
+- **Sampling-Based Kinodynamic Motion Planning**
+- **Bidirectional Heuristic Search**
 
-## [Open-Source Contributions](https://github.com/ompl/ompl/releases/tag/2.0.0)
+## Research Contributions
 
-- Open Motion Planning Library (OMPL): [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
+- **Lazy bidirectional heuristic search for sampling-based motion planning:** [Bidirectional Lazy Informed Trees](https://ieeexplore.ieee.org/document/11128259?denied=)
+- **Tighter termination conditions for bidirectional heuristic search:** [Meet-in-the-Middle with Early and Efficient Termination](https://www.ijcai.org/proceedings/2025/0999.pdf)
 
-## Polular repos
-### Sampling-based Motion Planning
-- [BLITstar](https://github.com/yi213-robotic/BLITstar-ICRA2025) at ICRA 2025.
-- [BTITstar](https://github.com/yi213-robotic/Bidirectional-Tight-Informed-Trees) at ICCA 2026.
-### Bidirectional heuristic search
-- [MEET](https://github.com/yi213-robotic/MEET) at IJCAI 2025.
+## Open-Source Contributions
+
+- **Open Motion Planning Library (OMPL):** [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
+
+## Popular Repositories
+
+### Sampling-Based Motion Planning
+
+- [BLITstar](https://github.com/yi213-robotic/BLITstar-ICRA2025), ICRA 2025
+- [BTITstar](https://github.com/yi213-robotic/Bidirectional-Tight-Informed-Trees), ICCA 2026
+
+### Bidirectional Heuristic Search
+
+- [MEET](https://github.com/yi213-robotic/MEET), IJCAI 2025
 
 ## Publication Venues
 
