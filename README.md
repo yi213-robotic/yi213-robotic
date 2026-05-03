@@ -8,17 +8,17 @@ My research centers on **efficient planning algorithms for trustworthy robotic a
 
 ## Research Pillars
 
-- **Sampling-Based Kinodynamic Motion Planning**
-- **Bidirectional Heuristic Search**
+- Sampling-Based Kinodynamic Motion Planning
+- Bidirectional Heuristic Search
 
 ## Research Contributions
 
-- **Lazy bidirectional heuristic search for sampling-based motion planning:** [Bidirectional Lazy Informed Trees](https://ieeexplore.ieee.org/document/11128259?denied=)
-- **Tighter termination conditions for bidirectional heuristic search:** [Meet-in-the-Middle with Early and Efficient Termination](https://www.ijcai.org/proceedings/2025/0999.pdf)
+- Lazy bidirectional heuristic search for sampling-based motion planning: [Bidirectional Lazy Informed Trees](https://ieeexplore.ieee.org/document/11128259?denied=)
+- Tighter termination conditions for bidirectional heuristic search: [Meet-in-the-Middle with Early and Efficient Termination](https://www.ijcai.org/proceedings/2025/0999.pdf)
 
 ## Open-Source Contributions
 
-- **Open Motion Planning Library (OMPL):** [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
+- Open Motion Planning Library (OMPL): [Lazy Informed Trees](https://ompl.kavrakilab.org/BLITstar_8h_source.html)
 
 ## Popular Repositories
 
