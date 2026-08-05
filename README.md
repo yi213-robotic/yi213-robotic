@@ -2,7 +2,7 @@
 
 ## Yi Wang
 
-Ph.D. in Robotics and AI, received my Ph.D.. Ph.D. in Robotics and AI from the University of New Hampshire. Joining the Intelligent Decision-Making (IDM) group at UC Irvine September 2026, working with Prof. Sven Koenig.
+Ph.D. in Robotics and AI. Joining the Intelligent Decision-Making (IDM) group at UC Irvine, working with Professor Sven Koenig.
 
 My research centers on **efficient planning algorithms for trustworthy robotic autonomy**. I develop algorithmic and theoretical foundations that enable autonomous robotic systems to act safely, reliably, and efficiently in complex environments.
 
