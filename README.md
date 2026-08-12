@@ -10,6 +10,8 @@ My research centers on **efficient planning algorithms for trustworthy robotic a
 
 - Sampling-Based Kinodynamic Motion Planning
 - Bidirectional Heuristic Search
+- Anyangle Path Planning
+- Multi-Agent (Robot) Planning
 
 ## Research Contributions
 
