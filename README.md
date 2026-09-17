@@ -28,6 +28,7 @@ My research centers on **efficient planning algorithms for trustworthy robotic a
 
 - [BLITstar](https://github.com/yi213-robotic/BLITstar-ICRA2025), ICRA 2025
 - [BTITstar](https://github.com/yi213-robotic/Bidirectional-Tight-Informed-Trees), ICCA 2026
+- [New Planner](https://github.com/yi213-robotic/A-new-class-of-AO-SBMP).
 
 ### Bidirectional Heuristic Search
 
