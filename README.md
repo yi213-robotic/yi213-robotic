@@ -34,9 +34,6 @@ My research centers on **efficient planning algorithms for trustworthy robotic a
 
 - [MEET](https://github.com/yi213-robotic/MEET), IJCAI 2025
 
-### Any-Angle Multi-Agent Path Finding
-
-- Soon.
 
 ## Publication Venues
 
